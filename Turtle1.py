@@ -2,7 +2,7 @@ import turtle as t
 t.bgcolor("black")
 t.pensize(1)
 t.speed(100)
-colors = ('cyan', 'red')
+colors = ('yellow', 'red')
 for i in range(200):
     t.forward(i*4)
     t.right(91)
